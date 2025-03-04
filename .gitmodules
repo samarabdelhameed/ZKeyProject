@@ -4,3 +4,6 @@
 [submodule "lib/zksync-era"]
 	path = lib/zksync-era
 	url = https://github.com/matter-labs/zksync-era
+[submodule "lib/openzeppelin-contracts-upgradeable"]
+	path = lib/openzeppelin-contracts-upgradeable
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
